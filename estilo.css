@@ -1,4 +1,12 @@
 .imgP{
     right: auto;
     width: 300px;
+    margin:30px;
 }
+.alinhamento{
+    display: flex;
+}
+.img{
+    background-image: "stardew2.jpeg";
+}
+
